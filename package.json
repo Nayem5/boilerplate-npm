@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "naim",
 	"dependencies": {
+		"author": "Naim",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
+
 	
 }
